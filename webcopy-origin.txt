@@ -1,0 +1,232 @@
+Uri: http://192.168.1.249/
+File Name: C:\Downloaded Web Sites\192.168.1.249\index.htm
+Content Type: text/html
+
+Uri: http://192.168.1.249/component/finder/search.opensearch?Itemid=101
+File Name: C:\Downloaded Web Sites\192.168.1.249\component\finder\search.opensearch
+Content Type: application/opensearchdescription+xml
+
+Uri: http://192.168.1.249/component/users/login.html?Itemid=101
+File Name: C:\Downloaded Web Sites\192.168.1.249\component\users\login.html
+Content Type: text/html
+
+Uri: http://192.168.1.249/component/users/remind.html?Itemid=101
+File Name: C:\Downloaded Web Sites\192.168.1.249\component\users\remind.html
+Content Type: text/html
+
+Uri: http://192.168.1.249/component/users/reset.html?Itemid=101
+File Name: C:\Downloaded Web Sites\192.168.1.249\component\users\reset.html
+Content Type: text/html
+
+Uri: http://192.168.1.249/components/com_sppagebuilder/assets/css/animate.min.css?7f7468ee56efd7d730cef83230e99b76
+File Name: C:\Downloaded Web Sites\192.168.1.249\components\com_sppagebuilder\assets\css\animate.min.css
+Content Type: text/css
+
+Uri: http://192.168.1.249/components/com_sppagebuilder/assets/css/font-awesome-5.min.css?7f7468ee56efd7d730cef83230e99b76
+File Name: C:\Downloaded Web Sites\192.168.1.249\components\com_sppagebuilder\assets\css\font-awesome-5.min.css
+Content Type: text/css
+
+Uri: http://192.168.1.249/components/com_sppagebuilder/assets/css/font-awesome-v4-shims.css?7f7468ee56efd7d730cef83230e99b76
+File Name: C:\Downloaded Web Sites\192.168.1.249\components\com_sppagebuilder\assets\css\font-awesome-v4-shims.css
+Content Type: text/css
+
+Uri: http://192.168.1.249/components/com_sppagebuilder/assets/css/magnific-popup.css
+File Name: C:\Downloaded Web Sites\192.168.1.249\components\com_sppagebuilder\assets\css\magnific-popup.css
+Content Type: text/css
+
+Uri: http://192.168.1.249/components/com_sppagebuilder/assets/css/sppagebuilder.css?7f7468ee56efd7d730cef83230e99b76
+File Name: C:\Downloaded Web Sites\192.168.1.249\components\com_sppagebuilder\assets\css\sppagebuilder.css
+Content Type: text/css
+
+Uri: http://192.168.1.249/components/com_sppagebuilder/assets/js/common.js
+File Name: C:\Downloaded Web Sites\192.168.1.249\components\com_sppagebuilder\assets\js\common.js
+Content Type: text/javascript
+
+Uri: http://192.168.1.249/components/com_sppagebuilder/assets/js/jquery.magnific-popup.min.js
+File Name: C:\Downloaded Web Sites\192.168.1.249\components\com_sppagebuilder\assets\js\jquery.magnific-popup.min.js
+Content Type: text/javascript
+
+Uri: http://192.168.1.249/components/com_sppagebuilder/assets/js/jquery.parallax.js?7f7468ee56efd7d730cef83230e99b76
+File Name: C:\Downloaded Web Sites\192.168.1.249\components\com_sppagebuilder\assets\js\jquery.parallax.js
+Content Type: text/javascript
+
+Uri: http://192.168.1.249/components/com_sppagebuilder/assets/js/sppagebuilder.js?7f7468ee56efd7d730cef83230e99b76
+File Name: C:\Downloaded Web Sites\192.168.1.249\components\com_sppagebuilder\assets\js\sppagebuilder.js
+Content Type: text/javascript
+
+Uri: http://192.168.1.249/components/com_sppagebuilder/assets/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\192.168.1.249\components\com_sppagebuilder\assets\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: http://192.168.1.249/components/com_sppagebuilder/assets/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\192.168.1.249\components\com_sppagebuilder\assets\webfonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: http://192.168.1.249/components/com_sppagebuilder/assets/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\192.168.1.249\components\com_sppagebuilder\assets\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: http://192.168.1.249/components/com_sppagebuilder/assets/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\192.168.1.249\components\com_sppagebuilder\assets\webfonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: http://192.168.1.249/components/com_sppagebuilder/assets/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\192.168.1.249\components\com_sppagebuilder\assets\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: http://192.168.1.249/components/com_sppagebuilder/assets/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\192.168.1.249\components\com_sppagebuilder\assets\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: http://192.168.1.249/media/com_finder/js/finder.min.js?bc972b
+File Name: C:\Downloaded Web Sites\192.168.1.249\media\com_finder\js\finder.min.js
+Content Type: text/javascript
+
+Uri: http://192.168.1.249/media/legacy/js/jquery-noconflict.min.js?504da4
+File Name: C:\Downloaded Web Sites\192.168.1.249\media\legacy\js\jquery-noconflict.min.js
+Content Type: text/javascript
+
+Uri: http://192.168.1.249/media/system/css/joomla-fontawesome.min.css?ddabb1
+File Name: C:\Downloaded Web Sites\192.168.1.249\media\system\css\joomla-fontawesome.min.css
+Content Type: text/css
+
+Uri: http://192.168.1.249/media/system/js/core.min.js?83f2c9
+File Name: C:\Downloaded Web Sites\192.168.1.249\media\system\js\core.min.js
+Content Type: text/javascript
+
+Uri: http://192.168.1.249/media/system/js/fields/passwordview.min.js?ddabb1
+File Name: C:\Downloaded Web Sites\192.168.1.249\media\system\js\fields\passwordview.min.js
+Content Type: text/javascript
+
+Uri: http://192.168.1.249/media/system/js/fields/validate.min.js?c50f3a
+File Name: C:\Downloaded Web Sites\192.168.1.249\media\system\js\fields\validate.min.js
+Content Type: text/javascript
+
+Uri: http://192.168.1.249/media/system/js/keepalive.min.js?08e025
+File Name: C:\Downloaded Web Sites\192.168.1.249\media\system\js\keepalive.min.js
+Content Type: text/javascript
+
+Uri: http://192.168.1.249/media/system/js/messages.min.js?7a5169
+File Name: C:\Downloaded Web Sites\192.168.1.249\media\system\js\messages.min.js
+Content Type: text/javascript
+
+Uri: http://192.168.1.249/media/system/js/showon.min.js?891646
+File Name: C:\Downloaded Web Sites\192.168.1.249\media\system\js\showon.min.js
+Content Type: text/javascript
+
+Uri: http://192.168.1.249/media/vendor/awesomplete/css/awesomplete.css?1.1.5
+File Name: C:\Downloaded Web Sites\192.168.1.249\media\vendor\awesomplete\css\awesomplete.css
+Content Type: text/css
+
+Uri: http://192.168.1.249/media/vendor/awesomplete/js/awesomplete.min.js?1.1.5
+File Name: C:\Downloaded Web Sites\192.168.1.249\media\vendor\awesomplete\js\awesomplete.min.js
+Content Type: text/javascript
+
+Uri: http://192.168.1.249/media/vendor/bootstrap/js/alert.min.js?5.3.2
+File Name: C:\Downloaded Web Sites\192.168.1.249\media\vendor\bootstrap\js\alert.min.js
+Content Type: text/javascript
+
+Uri: http://192.168.1.249/media/vendor/bootstrap/js/button.min.js?5.3.2
+File Name: C:\Downloaded Web Sites\192.168.1.249\media\vendor\bootstrap\js\button.min.js
+Content Type: text/javascript
+
+Uri: http://192.168.1.249/media/vendor/bootstrap/js/carousel.min.js?5.3.2
+File Name: C:\Downloaded Web Sites\192.168.1.249\media\vendor\bootstrap\js\carousel.min.js
+Content Type: text/javascript
+
+Uri: http://192.168.1.249/media/vendor/bootstrap/js/collapse.min.js?5.3.2
+File Name: C:\Downloaded Web Sites\192.168.1.249\media\vendor\bootstrap\js\collapse.min.js
+Content Type: text/javascript
+
+Uri: http://192.168.1.249/media/vendor/bootstrap/js/dropdown.min.js?5.3.2
+File Name: C:\Downloaded Web Sites\192.168.1.249\media\vendor\bootstrap\js\dropdown.min.js
+Content Type: text/javascript
+
+Uri: http://192.168.1.249/media/vendor/bootstrap/js/modal.min.js?5.3.2
+File Name: C:\Downloaded Web Sites\192.168.1.249\media\vendor\bootstrap\js\modal.min.js
+Content Type: text/javascript
+
+Uri: http://192.168.1.249/media/vendor/bootstrap/js/offcanvas.min.js?5.3.2
+File Name: C:\Downloaded Web Sites\192.168.1.249\media\vendor\bootstrap\js\offcanvas.min.js
+Content Type: text/javascript
+
+Uri: http://192.168.1.249/media/vendor/bootstrap/js/popover.min.js?5.3.2
+File Name: C:\Downloaded Web Sites\192.168.1.249\media\vendor\bootstrap\js\popover.min.js
+Content Type: text/javascript
+
+Uri: http://192.168.1.249/media/vendor/bootstrap/js/scrollspy.min.js?5.3.2
+File Name: C:\Downloaded Web Sites\192.168.1.249\media\vendor\bootstrap\js\scrollspy.min.js
+Content Type: text/javascript
+
+Uri: http://192.168.1.249/media/vendor/bootstrap/js/tab.min.js?5.3.2
+File Name: C:\Downloaded Web Sites\192.168.1.249\media\vendor\bootstrap\js\tab.min.js
+Content Type: text/javascript
+
+Uri: http://192.168.1.249/media/vendor/bootstrap/js/toast.min.js?5.3.2
+File Name: C:\Downloaded Web Sites\192.168.1.249\media\vendor\bootstrap\js\toast.min.js
+Content Type: text/javascript
+
+Uri: http://192.168.1.249/media/vendor/fontawesome-free/webfonts/fa-brands-400.ttf?v=bb8cd0
+File Name: C:\Downloaded Web Sites\192.168.1.249\media\vendor\fontawesome-free\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: http://192.168.1.249/media/vendor/fontawesome-free/webfonts/fa-brands-400.woff2?v=005c9a
+File Name: C:\Downloaded Web Sites\192.168.1.249\media\vendor\fontawesome-free\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: http://192.168.1.249/media/vendor/fontawesome-free/webfonts/fa-regular-400.ttf?v=675809
+File Name: C:\Downloaded Web Sites\192.168.1.249\media\vendor\fontawesome-free\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: http://192.168.1.249/media/vendor/fontawesome-free/webfonts/fa-regular-400.woff2?v=747442
+File Name: C:\Downloaded Web Sites\192.168.1.249\media\vendor\fontawesome-free\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: http://192.168.1.249/media/vendor/fontawesome-free/webfonts/fa-solid-900.ttf?v=0248ab
+File Name: C:\Downloaded Web Sites\192.168.1.249\media\vendor\fontawesome-free\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: http://192.168.1.249/media/vendor/fontawesome-free/webfonts/fa-solid-900.woff2?v=d5e647
+File Name: C:\Downloaded Web Sites\192.168.1.249\media\vendor\fontawesome-free\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: http://192.168.1.249/media/vendor/joomla-custom-elements/css/joomla-alert.min.css?0.2.0
+File Name: C:\Downloaded Web Sites\192.168.1.249\media\vendor\joomla-custom-elements\css\joomla-alert.min.css
+Content Type: text/css
+
+Uri: http://192.168.1.249/media/vendor/jquery/js/jquery.min.js?3.7.1
+File Name: C:\Downloaded Web Sites\192.168.1.249\media\vendor\jquery\js\jquery.min.js
+Content Type: text/javascript
+
+Uri: http://192.168.1.249/plugins/system/helixultimate/assets/css/system-j4.min.css
+File Name: C:\Downloaded Web Sites\192.168.1.249\plugins\system\helixultimate\assets\css\system-j4.min.css
+Content Type: text/css
+
+Uri: http://192.168.1.249/templates/shaper_helixultimate/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\192.168.1.249\templates\shaper_helixultimate\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: http://192.168.1.249/templates/shaper_helixultimate/css/presets/preset2.css
+File Name: C:\Downloaded Web Sites\192.168.1.249\templates\shaper_helixultimate\css\presets\preset2.css
+Content Type: text/css
+
+Uri: http://192.168.1.249/templates/shaper_helixultimate/css/template.css
+File Name: C:\Downloaded Web Sites\192.168.1.249\templates\shaper_helixultimate\css\template.css
+Content Type: text/css
+
+Uri: http://192.168.1.249/templates/shaper_helixultimate/images/favicon.ico
+File Name: C:\Downloaded Web Sites\192.168.1.249\templates\shaper_helixultimate\images\favicon.ico
+Content Type: image/x-icon
+
+Uri: http://192.168.1.249/templates/shaper_helixultimate/images/menu-bg.jpg
+File Name: C:\Downloaded Web Sites\192.168.1.249\templates\shaper_helixultimate\images\menu-bg.jpg
+Content Type: image/jpeg
+
+Uri: http://192.168.1.249/templates/shaper_helixultimate/images/presets/preset2/logo.svg
+File Name: C:\Downloaded Web Sites\192.168.1.249\templates\shaper_helixultimate\images\presets\preset2\logo.svg
+Content Type: image/svg+xml
+
+Uri: http://192.168.1.249/templates/shaper_helixultimate/js/main.js
+File Name: C:\Downloaded Web Sites\192.168.1.249\templates\shaper_helixultimate\js\main.js
+Content Type: text/javascript
+
