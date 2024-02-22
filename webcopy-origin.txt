@@ -2,22 +2,6 @@ Uri: http://192.168.1.249/
 File Name: C:\Downloaded Web Sites\192.168.1.249\index.htm
 Content Type: text/html
 
-Uri: http://192.168.1.249/component/finder/search.opensearch?Itemid=101
-File Name: C:\Downloaded Web Sites\192.168.1.249\component\finder\search.opensearch
-Content Type: application/opensearchdescription+xml
-
-Uri: http://192.168.1.249/component/users/login.html?Itemid=101
-File Name: C:\Downloaded Web Sites\192.168.1.249\component\users\login.html
-Content Type: text/html
-
-Uri: http://192.168.1.249/component/users/remind.html?Itemid=101
-File Name: C:\Downloaded Web Sites\192.168.1.249\component\users\remind.html
-Content Type: text/html
-
-Uri: http://192.168.1.249/component/users/reset.html?Itemid=101
-File Name: C:\Downloaded Web Sites\192.168.1.249\component\users\reset.html
-Content Type: text/html
-
 Uri: http://192.168.1.249/components/com_sppagebuilder/assets/css/animate.min.css?7f7468ee56efd7d730cef83230e99b76
 File Name: C:\Downloaded Web Sites\192.168.1.249\components\com_sppagebuilder\assets\css\animate.min.css
 Content Type: text/css
@@ -78,32 +62,20 @@ Uri: http://192.168.1.249/components/com_sppagebuilder/assets/webfonts/fa-solid-
 File Name: C:\Downloaded Web Sites\192.168.1.249\components\com_sppagebuilder\assets\webfonts\fa-solid-900.woff
 Content Type: font/woff
 
-Uri: http://192.168.1.249/media/com_finder/js/finder.min.js?bc972b
-File Name: C:\Downloaded Web Sites\192.168.1.249\media\com_finder\js\finder.min.js
-Content Type: text/javascript
+Uri: http://192.168.1.249/images/beneinsth.png
+File Name: C:\Downloaded Web Sites\192.168.1.249\images\beneinsth.png
+Content Type: image/png
 
 Uri: http://192.168.1.249/media/legacy/js/jquery-noconflict.min.js?504da4
 File Name: C:\Downloaded Web Sites\192.168.1.249\media\legacy\js\jquery-noconflict.min.js
 Content Type: text/javascript
 
-Uri: http://192.168.1.249/media/system/css/joomla-fontawesome.min.css?ddabb1
+Uri: http://192.168.1.249/media/system/css/joomla-fontawesome.min.css?df7fc8
 File Name: C:\Downloaded Web Sites\192.168.1.249\media\system\css\joomla-fontawesome.min.css
 Content Type: text/css
 
 Uri: http://192.168.1.249/media/system/js/core.min.js?83f2c9
 File Name: C:\Downloaded Web Sites\192.168.1.249\media\system\js\core.min.js
-Content Type: text/javascript
-
-Uri: http://192.168.1.249/media/system/js/fields/passwordview.min.js?ddabb1
-File Name: C:\Downloaded Web Sites\192.168.1.249\media\system\js\fields\passwordview.min.js
-Content Type: text/javascript
-
-Uri: http://192.168.1.249/media/system/js/fields/validate.min.js?c50f3a
-File Name: C:\Downloaded Web Sites\192.168.1.249\media\system\js\fields\validate.min.js
-Content Type: text/javascript
-
-Uri: http://192.168.1.249/media/system/js/keepalive.min.js?08e025
-File Name: C:\Downloaded Web Sites\192.168.1.249\media\system\js\keepalive.min.js
 Content Type: text/javascript
 
 Uri: http://192.168.1.249/media/system/js/messages.min.js?7a5169
@@ -112,14 +84,6 @@ Content Type: text/javascript
 
 Uri: http://192.168.1.249/media/system/js/showon.min.js?891646
 File Name: C:\Downloaded Web Sites\192.168.1.249\media\system\js\showon.min.js
-Content Type: text/javascript
-
-Uri: http://192.168.1.249/media/vendor/awesomplete/css/awesomplete.css?1.1.5
-File Name: C:\Downloaded Web Sites\192.168.1.249\media\vendor\awesomplete\css\awesomplete.css
-Content Type: text/css
-
-Uri: http://192.168.1.249/media/vendor/awesomplete/js/awesomplete.min.js?1.1.5
-File Name: C:\Downloaded Web Sites\192.168.1.249\media\vendor\awesomplete\js\awesomplete.min.js
 Content Type: text/javascript
 
 Uri: http://192.168.1.249/media/vendor/bootstrap/js/alert.min.js?5.3.2
@@ -206,8 +170,8 @@ Uri: http://192.168.1.249/templates/shaper_helixultimate/css/bootstrap.min.css
 File Name: C:\Downloaded Web Sites\192.168.1.249\templates\shaper_helixultimate\css\bootstrap.min.css
 Content Type: text/css
 
-Uri: http://192.168.1.249/templates/shaper_helixultimate/css/presets/preset2.css
-File Name: C:\Downloaded Web Sites\192.168.1.249\templates\shaper_helixultimate\css\presets\preset2.css
+Uri: http://192.168.1.249/templates/shaper_helixultimate/css/presets/default.css
+File Name: C:\Downloaded Web Sites\192.168.1.249\templates\shaper_helixultimate\css\presets\default.css
 Content Type: text/css
 
 Uri: http://192.168.1.249/templates/shaper_helixultimate/css/template.css
@@ -221,10 +185,6 @@ Content Type: image/x-icon
 Uri: http://192.168.1.249/templates/shaper_helixultimate/images/menu-bg.jpg
 File Name: C:\Downloaded Web Sites\192.168.1.249\templates\shaper_helixultimate\images\menu-bg.jpg
 Content Type: image/jpeg
-
-Uri: http://192.168.1.249/templates/shaper_helixultimate/images/presets/preset2/logo.svg
-File Name: C:\Downloaded Web Sites\192.168.1.249\templates\shaper_helixultimate\images\presets\preset2\logo.svg
-Content Type: image/svg+xml
 
 Uri: http://192.168.1.249/templates/shaper_helixultimate/js/main.js
 File Name: C:\Downloaded Web Sites\192.168.1.249\templates\shaper_helixultimate\js\main.js
