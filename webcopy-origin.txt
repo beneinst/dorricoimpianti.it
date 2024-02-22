@@ -2,15 +2,15 @@ Uri: http://192.168.1.249/
 File Name: C:\Downloaded Web Sites\192.168.1.249\index.htm
 Content Type: text/html
 
-Uri: http://192.168.1.249/components/com_sppagebuilder/assets/css/animate.min.css?7f7468ee56efd7d730cef83230e99b76
+Uri: http://192.168.1.249/components/com_sppagebuilder/assets/css/animate.min.css?92b40b3a7c2cb2a3e34bb68cbc09d14d
 File Name: C:\Downloaded Web Sites\192.168.1.249\components\com_sppagebuilder\assets\css\animate.min.css
 Content Type: text/css
 
-Uri: http://192.168.1.249/components/com_sppagebuilder/assets/css/font-awesome-5.min.css?7f7468ee56efd7d730cef83230e99b76
+Uri: http://192.168.1.249/components/com_sppagebuilder/assets/css/font-awesome-5.min.css?92b40b3a7c2cb2a3e34bb68cbc09d14d
 File Name: C:\Downloaded Web Sites\192.168.1.249\components\com_sppagebuilder\assets\css\font-awesome-5.min.css
 Content Type: text/css
 
-Uri: http://192.168.1.249/components/com_sppagebuilder/assets/css/font-awesome-v4-shims.css?7f7468ee56efd7d730cef83230e99b76
+Uri: http://192.168.1.249/components/com_sppagebuilder/assets/css/font-awesome-v4-shims.css?92b40b3a7c2cb2a3e34bb68cbc09d14d
 File Name: C:\Downloaded Web Sites\192.168.1.249\components\com_sppagebuilder\assets\css\font-awesome-v4-shims.css
 Content Type: text/css
 
@@ -18,7 +18,7 @@ Uri: http://192.168.1.249/components/com_sppagebuilder/assets/css/magnific-popup
 File Name: C:\Downloaded Web Sites\192.168.1.249\components\com_sppagebuilder\assets\css\magnific-popup.css
 Content Type: text/css
 
-Uri: http://192.168.1.249/components/com_sppagebuilder/assets/css/sppagebuilder.css?7f7468ee56efd7d730cef83230e99b76
+Uri: http://192.168.1.249/components/com_sppagebuilder/assets/css/sppagebuilder.css?92b40b3a7c2cb2a3e34bb68cbc09d14d
 File Name: C:\Downloaded Web Sites\192.168.1.249\components\com_sppagebuilder\assets\css\sppagebuilder.css
 Content Type: text/css
 
@@ -30,11 +30,11 @@ Uri: http://192.168.1.249/components/com_sppagebuilder/assets/js/jquery.magnific
 File Name: C:\Downloaded Web Sites\192.168.1.249\components\com_sppagebuilder\assets\js\jquery.magnific-popup.min.js
 Content Type: text/javascript
 
-Uri: http://192.168.1.249/components/com_sppagebuilder/assets/js/jquery.parallax.js?7f7468ee56efd7d730cef83230e99b76
+Uri: http://192.168.1.249/components/com_sppagebuilder/assets/js/jquery.parallax.js?92b40b3a7c2cb2a3e34bb68cbc09d14d
 File Name: C:\Downloaded Web Sites\192.168.1.249\components\com_sppagebuilder\assets\js\jquery.parallax.js
 Content Type: text/javascript
 
-Uri: http://192.168.1.249/components/com_sppagebuilder/assets/js/sppagebuilder.js?7f7468ee56efd7d730cef83230e99b76
+Uri: http://192.168.1.249/components/com_sppagebuilder/assets/js/sppagebuilder.js?92b40b3a7c2cb2a3e34bb68cbc09d14d
 File Name: C:\Downloaded Web Sites\192.168.1.249\components\com_sppagebuilder\assets\js\sppagebuilder.js
 Content Type: text/javascript
 
@@ -62,8 +62,12 @@ Uri: http://192.168.1.249/components/com_sppagebuilder/assets/webfonts/fa-solid-
 File Name: C:\Downloaded Web Sites\192.168.1.249\components\com_sppagebuilder\assets\webfonts\fa-solid-900.woff
 Content Type: font/woff
 
-Uri: http://192.168.1.249/images/beneinsth.png
-File Name: C:\Downloaded Web Sites\192.168.1.249\images\beneinsth.png
+Uri: http://192.168.1.249/images/beneinst-removebg-preview-1.png
+File Name: C:\Downloaded Web Sites\192.168.1.249\images\beneinst-removebg-preview-1.png
+Content Type: image/png
+
+Uri: http://192.168.1.249/images/logogius2.png
+File Name: C:\Downloaded Web Sites\192.168.1.249\images\logogius2.png
 Content Type: image/png
 
 Uri: http://192.168.1.249/media/legacy/js/jquery-noconflict.min.js?504da4
@@ -177,10 +181,6 @@ Content Type: text/css
 Uri: http://192.168.1.249/templates/shaper_helixultimate/css/template.css
 File Name: C:\Downloaded Web Sites\192.168.1.249\templates\shaper_helixultimate\css\template.css
 Content Type: text/css
-
-Uri: http://192.168.1.249/templates/shaper_helixultimate/images/favicon.ico
-File Name: C:\Downloaded Web Sites\192.168.1.249\templates\shaper_helixultimate\images\favicon.ico
-Content Type: image/x-icon
 
 Uri: http://192.168.1.249/templates/shaper_helixultimate/images/menu-bg.jpg
 File Name: C:\Downloaded Web Sites\192.168.1.249\templates\shaper_helixultimate\images\menu-bg.jpg
