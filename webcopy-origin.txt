@@ -2,6 +2,14 @@ Uri: http://192.168.1.249/
 File Name: C:\Downloaded Web Sites\192.168.1.249\index.htm
 Content Type: text/html
 
+Uri: http://192.168.1.249/blog-news.html
+File Name: C:\Downloaded Web Sites\192.168.1.249\blog-news.html
+Content Type: text/html
+
+Uri: http://192.168.1.249/chi-siamo.html
+File Name: C:\Downloaded Web Sites\192.168.1.249\chi-siamo.html
+Content Type: text/html
+
 Uri: http://192.168.1.249/components/com_sppagebuilder/assets/css/animate.min.css?92b40b3a7c2cb2a3e34bb68cbc09d14d
 File Name: C:\Downloaded Web Sites\192.168.1.249\components\com_sppagebuilder\assets\css\animate.min.css
 Content Type: text/css
@@ -62,13 +70,49 @@ Uri: http://192.168.1.249/components/com_sppagebuilder/assets/webfonts/fa-solid-
 File Name: C:\Downloaded Web Sites\192.168.1.249\components\com_sppagebuilder\assets\webfonts\fa-solid-900.woff
 Content Type: font/woff
 
+Uri: http://192.168.1.249/contattaci.html
+File Name: C:\Downloaded Web Sites\192.168.1.249\contattaci.html
+Content Type: text/html
+
 Uri: http://192.168.1.249/images/beneinst-removebg-preview-1.png
 File Name: C:\Downloaded Web Sites\192.168.1.249\images\beneinst-removebg-preview-1.png
 Content Type: image/png
 
-Uri: http://192.168.1.249/images/logogius2.png
-File Name: C:\Downloaded Web Sites\192.168.1.249\images\logogius2.png
+Uri: http://192.168.1.249/images/beneinstzww.png
+File Name: C:\Downloaded Web Sites\192.168.1.249\images\beneinstzww.png
 Content Type: image/png
+
+Uri: http://192.168.1.249/images/Componenti/Fonts/Alegreya-Regular.ttf
+File Name: C:\Downloaded Web Sites\192.168.1.249\images\Componenti\Fonts\Alegreya-Regular.ttf
+Content Type: font/ttf
+
+Uri: http://192.168.1.249/images/Componenti/Fonts/AnnieUseYourTelescope-Regular.ttf
+File Name: C:\Downloaded Web Sites\192.168.1.249\images\Componenti\Fonts\AnnieUseYourTelescope-Regular.ttf
+Content Type: font/ttf
+
+Uri: http://192.168.1.249/images/Componenti/Fonts/Asap-Regular.ttf
+File Name: C:\Downloaded Web Sites\192.168.1.249\images\Componenti\Fonts\Asap-Regular.ttf
+Content Type: font/ttf
+
+Uri: http://192.168.1.249/images/Componenti/Fonts/AveriaLibre-Regular.ttf
+File Name: C:\Downloaded Web Sites\192.168.1.249\images\Componenti\Fonts\AveriaLibre-Regular.ttf
+Content Type: font/ttf
+
+Uri: http://192.168.1.249/images/Componenti/Fonts/BigShouldersText-Regular.ttf
+File Name: C:\Downloaded Web Sites\192.168.1.249\images\Componenti\Fonts\BigShouldersText-Regular.ttf
+Content Type: font/ttf
+
+Uri: http://192.168.1.249/images/Componenti/Fonts/DMSerifDisplay-Regular.ttf
+File Name: C:\Downloaded Web Sites\192.168.1.249\images\Componenti\Fonts\DMSerifDisplay-Regular.ttf
+Content Type: font/ttf
+
+Uri: http://192.168.1.249/images/Componenti/Fonts/Homenaje-Regular.ttf
+File Name: C:\Downloaded Web Sites\192.168.1.249\images\Componenti\Fonts\Homenaje-Regular.ttf
+Content Type: font/ttf
+
+Uri: http://192.168.1.249/images/Componenti/Fonts/Mynerve-Regular.ttf
+File Name: C:\Downloaded Web Sites\192.168.1.249\images\Componenti\Fonts\Mynerve-Regular.ttf
+Content Type: font/ttf
 
 Uri: http://192.168.1.249/media/legacy/js/jquery-noconflict.min.js?504da4
 File Name: C:\Downloaded Web Sites\192.168.1.249\media\legacy\js\jquery-noconflict.min.js
@@ -169,6 +213,14 @@ Content Type: text/javascript
 Uri: http://192.168.1.249/plugins/system/helixultimate/assets/css/system-j4.min.css
 File Name: C:\Downloaded Web Sites\192.168.1.249\plugins\system\helixultimate\assets\css\system-j4.min.css
 Content Type: text/css
+
+Uri: http://192.168.1.249/portfolio.html
+File Name: C:\Downloaded Web Sites\192.168.1.249\portfolio.html
+Content Type: text/html
+
+Uri: http://192.168.1.249/servizi.html
+File Name: C:\Downloaded Web Sites\192.168.1.249\servizi.html
+Content Type: text/html
 
 Uri: http://192.168.1.249/templates/shaper_helixultimate/css/bootstrap.min.css
 File Name: C:\Downloaded Web Sites\192.168.1.249\templates\shaper_helixultimate\css\bootstrap.min.css
